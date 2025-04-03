@@ -1,0 +1,6 @@
+site_name: Yoshi Was Here
+theme:
+  name: material
+
+nav:
+  - Home: index.md
