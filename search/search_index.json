@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to My MkDocs Site","text":"<p>This site auto-builds and auto-deploys with every push to main.</p> <p>This is a test. </p>"}]}
