@@ -3,18 +3,18 @@ site_name: Yoshi Was Here
 theme:
   name: material
   palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
+  - scheme: default
+    primary: grey
+    accent: grey
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+  - scheme: slate
+    primary: grey
+    accent: grey
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
   features:
     - navigation.tabs
     - navigation.top
